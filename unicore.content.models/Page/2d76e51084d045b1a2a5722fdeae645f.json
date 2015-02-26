@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "fertilisants ou carburants liquides comme la paraffine (k\u00e9ros\u00e8ne), doivent \u00eatre rang\u00e9s\r\nhors de la vue et de la port\u00e9e des enfants. Les substances dangereuses doivent \u00eatre\r\nstock\u00e9es dans des r\u00e9cipients \u00e9tiquet\u00e9s, jamais dans des bouteilles alimentaires.\r\nLorsqu\u2019ils existent, des syst\u00e8mes de fermeture dot\u00e9s d\u2019une s\u00e9curit\u00e9 enfant doivent\r\n\u00eatre utilis\u00e9s sur les r\u00e9cipients contenant des produits dangereux.", 
+  "description": "Les m\u00e9dicaments, les poisons, les insecticides, l\u2019eau de Javel, les acides et les\r\nfertilisants ou carburants liquides comme la paraffine (k\u00e9ros\u00e8ne), doivent \u00eatre rang\u00e9s\r\nhors de la vue et de la port\u00e9e des enfants. Les substances dangereuses doivent \u00eatre\r\nstock\u00e9es dans des r\u00e9cipients \u00e9tiquet\u00e9s, jamais dans des bouteilles alimentaires.\r\nLorsqu\u2019ils existent, des syst\u00e8mes de fermeture dot\u00e9s d\u2019une s\u00e9curit\u00e9 enfant doivent\r\n\u00eatre utilis\u00e9s sur les r\u00e9cipients contenant des produits dangereux.", 
   "language": "fre_FR", 
-  "title": "fertilisants ou carburants liquides comme la paraffine (k\u00e9ros\u00e8ne), doivent \u00eatre rang\u00e9s hors de la vue et de la port\u00e9e des enfants. Les substances dangereuses doivent \u00eatre stock\u00e9es dans des r\u00e9cipients ", 
+  "title": "Les m\u00e9dicaments, les poisons, les insecticides, l\u2019eau de Javel, les acides et les fertilisants ou carburants liquides comme la paraffine (k\u00e9ros\u00e8ne), doivent \u00eatre rang\u00e9s hors de la vue et de la port\u00e9e ", 
   "primary_category": "32ae9d77ce5045aeb2bc132c11001c08", 
-  "created_at": "2014-11-28T13:19:24.120430+00:00", 
+  "created_at": "2014-11-28T13:19:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T02:31:45.007218+00:00", 
+  "modified_at": "2015-02-26T02:33:06.692666+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
