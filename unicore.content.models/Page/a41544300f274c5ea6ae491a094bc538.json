@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Vaccines recommended for all children globally", 
+  "language": "eng_GB", 
+  "title": "Vaccines recommended for all children globally", 
+  "primary_category": "74843060af944a698b9a33574f3275d4", 
+  "created_at": "2015-03-09T21:49:52.413388+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-09T21:49:52.413620+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - **BCG (Bacille-Calmette-Guerin) vaccine**, which offers partial protection against some forms of tuberculosis and leprosy\r\n - **DTP vaccine (also known as DPT vaccine).** Diphteria causes infection of the upper respiratory tract, which in severe cases may lead to breathing difficulties and death. Pertussis, or whooping cough, affects the respiratory tract and can cause a cough that lasts four to eight weeks. The disease is very dangerous in infants. Tetanus causes rigid muscles and painful muscle spasms and can be deadly. All pregnant women and infants need to be immunized against tetanus. Immunizing a woman with at least two doses of tetanus toxoid before or during pregnancy protects the newborn for the first few weeks of life and protects the mother. At 6 weeks old, a baby needs the first dose of the tetanus toxoid (the tetanus component of the DTP vaccine) to extend the protection received from the mother against tetanus.\r\n - **Measles vaccine** is needed as measles can be a major cause of malnutrition, poor mental development, and hearing and visual impairments. The signs that a child has measles are a fever and rash, together with a cough, a runny nose or red eyes. A child can die from measles. In countries where vitamin A deficiency is common, high dose vitamin A capsules are given to children aged 6 months to 5 years, every four to six months. Vitamin A is also an important part of measles treatment.\r\n\r\n - **Polio vaccine** protects against polio which causes disability. The signs of polio are a floppy limb or the inability to move.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "vaccines-recommended-all-children-globally", 
+  "uuid": "a41544300f274c5ea6ae491a094bc538"
+}
