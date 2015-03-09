@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Vaccines which may be included in national immunization programs", 
+  "language": "eng_GB", 
+  "title": "Vaccines which may be included in national immunization programs", 
+  "primary_category": "74843060af944a698b9a33574f3275d4", 
+  "created_at": "2015-03-09T21:52:24.831120+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-09T21:52:24.831354+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - **Hepatitis B vaccine** - In countries where hepatitis B is a problem, up to 10 out of every 100 children will harbor the infection for life if they are not immunized against Hepatitis B. Up to one quarter of children infected with heapatitis B maty develop serious liver conditions such as cancer when they are older.\r\n - **Haemophilus influenzae type B (Hib) and pneumococoal conjugate (PCV) vaccines** \u2013 In many countries, pneumonia caused by pneumococcus bacteria or Haemophilus influenzae type B (Hib) bacteria is common and kills many young children. Either of these bacteria can also cause childhood meningitis and other serious infections. These bacteria are among the most dangerous for children. Particularly those under 5 years old. Vaccination with Haemophilus influenzae type B vaccine (Hib vaccine) and pneumococcal (conjugate) vaccine (PCV) can prevent these deaths.\r\n - A **pentavalent vaccine** (five vaccines in one), combining the DTP , hepatits B and Hib vaccines, is increasingly being used by national immunization programs in many countries.\r\n - **Yellow fever vaccine** \u2013 In some countries, yellow fever puts the lvies of many young children and adults at risk. Vaccination can prevent this disease.\r\n - **Rotavirus vaccine** \u2013 Diarrhea caused by rotavirus is common and can be severe. It affects nearly every child under age 5. Severe rotavirus diarrhea is more common in developing countries where health care can be more difficult to access, resulting in many deaths in children under 5 years old, especially in children under 2. Vaccination against rotavirus prevents diarrhea caused by this virus. However, diarrhea due to other bacteria or viruses can still occur in children who receive the rotavirus vaccine.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "vaccines-which-may-be-included-national-immunization-programs", 
+  "uuid": "4d6ed99d94cb45849f208e9c067a7cfa"
+}
